@@ -1,5 +1,5 @@
 # Bank-Management-System
-
+A Java-based application for managing bank accounts, allowing users to create accounts, make deposits, withdrawals, and transfers, with secure login/logout, strong validation and error handling, and the ability to update account details while keeping data accurate and secure.
 First: Creating a new account
 ![image](https://github.com/user-attachments/assets/6a9b2f53-a92c-4cfa-85fd-2cee80c92789)
 
